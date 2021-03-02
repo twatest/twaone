@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pandey.sparshtwa",
+      "sha256_cert_fingerprints": [
+        "1C:D8:53:A5:C0:CC:46:E9:E8:A0:75:B7:B4:B9:44:3A:8B:AD:C7:47:A1:61:0B:6C:50:3A:20:F9:DB:40:9C:66"
+      ]
+    }
+  }
+]
